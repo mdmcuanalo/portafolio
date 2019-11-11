@@ -98,7 +98,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
-  font-family: 'Fira Code', monospace;
+  font-family:'Heebo', sans-serif;
   background: url('../img/black-and-white-bg.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #fefefe;
