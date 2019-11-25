@@ -108,6 +108,62 @@ img{
   width: 100%;
   max-width: 100%;
 }
+
+.home h3{
+  padding-top:40px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.home ul{
+  list-style-type: none;
+
+}
+
+.home li{
+  display: inline-block;
+}
+
+.navigation {
+  padding-top: 43px;
+  font-size: 20px;
+  text-align: right;
+}
+
+.navigation li{ 
+  margin-left: 40px;
+}
+
+.category1 {
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+.category1 li{
+  margin-left: 10px;
+}
+
+.category2 {
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+.category2 li{
+  margin-left: 160px;
+}
+
+.category3 {
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+.category3 li {
+margin-left: 300px;  
+}
+
+.content {
+  padding-bottom: 40px;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
