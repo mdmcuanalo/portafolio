@@ -98,8 +98,8 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
-  font-family:'Heebo', sans-serif;
-  background: url('../img/black-and-white-bg.jpg') no-repeat center center fixed;
+font-family: 'Heebo', sans-serif;
+  background:black;
   background-size: cover;
   color: #fefefe;
 }
@@ -111,13 +111,12 @@ img{
 
 .home h3{
   padding-top:40px;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: bolder;
 }
 
 .home ul{
   list-style-type: none;
-
 }
 
 .home li{
@@ -126,7 +125,7 @@ img{
 
 .navigation {
   padding-top: 43px;
-  font-size: 20px;
+  font-size: 18px;
   text-align: right;
 }
 
@@ -136,33 +135,456 @@ img{
 
 .category1 {
   padding-top: 40px;
-  font-size: 20px;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .category1 li{
-  margin-left: 10px;
+  margin-left: -35px;
 }
 
 .category2 {
   padding-top: 40px;
-  font-size: 20px;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .category2 li{
-  margin-left: 160px;
+  margin-left: -40px;
 }
 
 .category3 {
   padding-top: 40px;
-  font-size: 20px;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .category3 li {
-margin-left: 300px;  
+margin-left: -45px;  
 }
 
 .content {
   padding-bottom: 40px;
+}
+
+.photography{
+  background:black;
+  background-size: cover;
+}
+
+.photography  h4{
+  color:#E2C1EA;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.photography h3{
+  color: #fefefe;
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.photography p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+.photography li{
+  display: inline-block;
+}
+
+.photography ul{
+  list-style-type: none;
+  color: #fefefe;
+
+}
+
+.category1p {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category1p li{
+  margin-left: -35px;
+}
+
+.category2p {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category2p li{
+  margin-left: -35px;
+}
+
+.art{
+  background: black;
+  background-size: cover;
+}
+
+.art  h4{
+  color: #E2C1EA;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.art h3{
+  color: #fefefe;
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.art p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+.art li{
+  display: inline-block;
+}
+
+.art ul{
+  list-style-type: none;
+  color: #fefefe;
+
+}
+
+.category1a {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category1a li{
+  margin-left: -35px;
+}
+
+.category2a {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category2a li{
+  margin-left: -35px;
+}
+
+.category3a {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category3a li{
+  margin-left: -35px;
+}
+
+.category4a {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category4a li{
+  margin-left: -35px;
+}
+
+.about h3{
+  color: #fefefe;
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.about  h4{
+  color: #E2C1EA;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.about ul{
+  list-style-type: none;
+  color: #fefefe;
+}
+
+.about li{
+  display: inline-block;
+}
+
+.about p{
+  padding-top: 25px;
+  color: black;
+  font-size: 18px;
+  color: #fefefe;
+}
+
+
+.design h3{
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.design  h4{
+  color: #E2C1EA;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.design ul{
+  list-style-type: none;
+}
+
+.design li{
+  display: inline-block;
+}
+
+.design p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+.category1d {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category1d li{
+  margin-left: -35px;
+}
+
+.category2d {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category2d li{
+  margin-left: -35px;
+}
+
+.category3d {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category3d li{
+  margin-left: -35px;
+}
+
+.category4d {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category4d li{
+  margin-left: -35px;
+}
+
+.category5d {
+  padding-top: 40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.category5d li{
+  margin-left: -35px;
+}
+
+
+.aphoto h3{
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.aphoto  h4{
+  color: #fefefe;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.aphoto ul{
+  list-style-type: none;
+}
+
+.aphoto li{
+  display: inline-block;
+}
+
+ 
+.dphoto h3{
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.dphoto  h4{
+  color: #fefefe;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.dphoto ul{
+  list-style-type: none;
+}
+
+.dphoto li{
+  display: inline-block;
+}
+
+.color p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+.color h3{
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.color  h4{
+  color: #fefefe;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.color ul{
+  list-style-type: none;
+}
+
+.color li{
+  display: inline-block;
+}
+
+.color p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+
+.color p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+.drawings h3{
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.drawings  h4{
+  color: #fefefe;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.drawings ul{
+  list-style-type: none;
+}
+
+.drawings li{
+  display: inline-block;
+}
+
+.drawings p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+.paintings h3{
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.paintings  h4{
+  color: #fefefe;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.paintings ul{
+  list-style-type: none;
+}
+
+.paintings li{
+  display: inline-block;
+}
+
+.paintings p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+.calligraphy h3{
+  padding-top:40px;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.calligraphy  h4{
+  color: #fefefe;
+  padding-top:35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.calligraphy ul{
+  list-style-type: none;
+}
+
+.calligraphy li{
+  display: inline-block;
+}
+
+.calligraphy p{
+  padding-top: 25px;
+  color: #fefefe;
+  font-size: 18px;
+}
+
+
+a{
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#E2C1EA;
+  text-decoration: none;
+  transition: .3s ease;
+}
+
+
+.activelink{
+  color: #E2C1EA;
 }
 /* ==========================================================================
    Helper classes
